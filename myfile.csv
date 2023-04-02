@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+John,Doe,25,123 Main St,Apt 4,New York,NY,male
+Jane,Doe,28,456 Elm St,,San Francisco,CA,female
+Bob,Smith,42,789 Oak St,Suite 200,Chicago,IL,male
+Alice,Johnson,31,1010 Pine St,,Seattle,WA,female
+David,Lee,29,555 Maple Ave,Unit 1001,Toronto,ON,male
+Emily,Chen,27,777 Broadway,,Los Angeles,CA,female
+Michael,Nguyen,36,222 Market St,Suite 500,San Francisco,CA,male
+Amy,Garcia,24,333 Oak St,,New York,NY,female
+William,Liu,33,444 5th Ave,Suite 200,Chicago,IL,male
+Sophia,Wang,30,44 25th Ave,Suite 02,Chicago,IL,female
