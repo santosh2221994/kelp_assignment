@@ -1,3 +1,9 @@
+// This code is used to convert CSV file to JSON format using the csvtojson library
+// The csvtojson library converts the CSV file to JSON and returns a promise
+// The promise resolves into an array of JSON objects
+// The results are then mapped into an array of Mongoose objects
+// The array of Mongoose objects is then inserted into the database
+
 const express = require('express')
 const fs = require('fs')
 const mongoose = require('mongoose')
